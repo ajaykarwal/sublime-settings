@@ -1,6 +1,6 @@
 # Sublime Text 3 settings
 
-This is my Sublime Text 3 configuration. Most of the interesting stuff is in [Packages/User](Packages/User).
+This is my Sublime Text 3 configuration.
 
 If you just want to take a look at my preference and not copy everything, have a look at my [Preferences.sublime-settings](Packages/User/Preferences.sublime-settings).
 
@@ -8,10 +8,10 @@ If you just want to take a look at my preference and not copy everything, have a
 Quit Sublime Text 3.
 
 ### On macOS
-clone into ~/Library/Application Support/Sublime Text 3
+clone into ~/Library/Application Support/Sublime Text 3/Packages/User
 
 ### On Windows
-clone into C:\Users\%USERNAME%\AppData\Roaming\Sublime Text 3
+clone into C:\Users\%USERNAME%\AppData\Roaming\Sublime Text 3\Packages\User
 
 Open Sublime Text 3. Enjoy.
 

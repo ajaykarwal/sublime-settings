@@ -4,18 +4,10 @@ Index
 Local
 *.cache
 
-<<<<<<< HEAD
+
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
 Package Control.system-ca-bundle
-Package Control.cache/
-Package Control.ca-certs/
-=======
-Packages/User/Package Control.last-run
-Packages/User/Package Control.ca-list
-Packages/User/Package Control.ca-bundle
-Packages/User/Package Control.system-ca-bundle
-Packages/User/Package Control.cache/
-Packages/User/Package Control.ca-certs/
->>>>>>> efdd2fb29852b44584ee37e54749868b7e2ff715
+Package Control.cache
+Package Control.ca-certs

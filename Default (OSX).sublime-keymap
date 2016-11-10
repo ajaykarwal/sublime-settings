@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+k", "super+f"], "command": "reindent" },
+  { "keys": ["super+alt+p"], "command": "prompt_select_workspace" }
+]

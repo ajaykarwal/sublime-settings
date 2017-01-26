@@ -45,7 +45,7 @@
 		".hg",
 		"CVS",
 		".idea",
-    ".sass-cache",
+		".sass-cache",
 		"node_modules"
 	],
 	"font_face": "InputMono",

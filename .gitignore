@@ -15,3 +15,5 @@ Package Control.ca-certs
 *.merged-ca-bundle
 
 oscrypto-ca-bundle.crt
+
+Package Control.merged-ca-bundle

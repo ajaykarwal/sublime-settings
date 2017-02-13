@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AlignTab",
 		"BracketHighlighter",
 		"Comment-Snippets",
 		"CSS Format",

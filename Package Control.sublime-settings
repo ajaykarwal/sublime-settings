@@ -6,18 +6,28 @@
 	"installed_packages":
 	[
 		"AlignTab",
+		"AngularJS",
+		"AutoFileName",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"Comment-Snippets",
 		"CSS Format",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"Increment Selection",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"Nunjucks Syntax",
 		"Package Control",
 		"SCSS",
 		"SideBarEnhancements",
 		"Syntax Highlighting for Sass",
+		"TernJS",
 		"Theme - Cobalt2"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
 	]
 }

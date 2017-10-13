@@ -1,4 +1,5 @@
 # Sublime Text 3 settings
+## You should probably use Atom instead though..
 
 This is my Sublime Text 3 configuration.
 
